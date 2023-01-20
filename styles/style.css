@@ -28,3 +28,13 @@ font-family: 'Work Sans', sans-serif;
 .button-gift{
     margin-left: 225px;
 }
+.hot-des{
+    position: absolute;
+    position: relative;
+    bottom: 40px;
+}
+.hot-button{
+    position: relative;
+    bottom: 465px;
+    left: 45px;
+}
